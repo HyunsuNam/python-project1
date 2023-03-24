@@ -42,9 +42,9 @@ tensorflow, python
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Colab]([https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDs9oY%2FbtqOSyfX6cw%2FvCYbUu1N7t1zAsZyFlcSmK%2Fimg.png&tbnid=kKOjm-thSJ6RxM&vet=12ahUKEwiw6uDf_vP9AhUDMN4KHWAJCosQMygCegUIARDOAQ..i&imgrefurl=https%3A%2F%2Feverydaywoogi.tistory.com%2F61&docid=lmw4wOhNW38cnM&w=260&h=260&q=%EC%BD%94%EB%9E%A9&ved=2ahUKEwiw6uDf_vP9AhUDMN4KHWAJCosQMygCegUIARDOAQ))
 
 ### Communication
-![Colab](https://modulabs.co.kr/wp-content/uploads/2022/10/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2022-10-05-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE-7.30.11.png)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
