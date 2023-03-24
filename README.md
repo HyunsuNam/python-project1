@@ -44,7 +44,7 @@ tensorflow, python
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### Communication
-![Colab](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Colab]([https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDs9oY%2FbtqOSyfX6cw%2FvCYbUu1N7t1zAsZyFlcSmK%2Fimg.png&tbnid=kKOjm-thSJ6RxM&vet=12ahUKEwiw6uDf_vP9AhUDMN4KHWAJCosQMygCegUIARDOAQ..i&imgrefurl=https%3A%2F%2Feverydaywoogi.tistory.com%2F61&docid=lmw4wOhNW38cnM&w=260&h=260&q=%EC%BD%94%EB%9E%A9&ved=2ahUKEwiw6uDf_vP9AhUDMN4KHWAJCosQMygCegUIARDOAQ))
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
